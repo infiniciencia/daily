@@ -102,5 +102,6 @@ h5 {
 @media (max-width: 600px) {
 	.outer-container {
 		width: 90%;
+		margin-top: 479px;
 	}
 }
