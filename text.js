@@ -4,9 +4,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
 function exibirMensagemDoDia() {
     const mensagensPorData = {
-        "2023-12-31": ["Feliz Ano Novo!", "Você é o melhor presente que eu poderia ter!", "AMO VOCÊ!"],
         "2024-01-01": ["Feliz Ano Novo!", "Você é o melhor presente que eu poderia ter!", "AMO VOCÊ!"],
-        "2024-01-02": ["Mensagem 2", "<br>"],
+        "2024-01-02": ["No véu do cosmos, onde a luz se desenha,", "Cones de amor, a se entrelaçar.", "Em curvas do espaço, o destino se enfeita,", "No baile cosmico, a dança a encantar.", "~", "No ano que desperta, como estrelas a brilhar,", "O futuro se estende, vasto e a pulsar.", "Cones de esperança, no tecido do tempo,", "No compasso do universo, como o instrumento.", "~", "Entre singularidades, o coração a pulsar,", "Gravitamos sonhos, a nos entrelaçar.", "Em meio a paixão, como de um Quasar,", "No abraço do agora, o amor a prosperar.", "Que o ano que se inicia seja como a luz estelar,", "Em cones de promessas, no espaço a conduzir.", "Que juntos, em sintonia, possamos traçar,", "O amor em constante evolução, a nos unir."],
         "2024-01-03": ["Mensagem 3", "<br>"]
     };
 
