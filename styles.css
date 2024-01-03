@@ -8,8 +8,8 @@ body {
     justify-content: center;
     height: 100vh;
     background-color: #ffe6e6;
-	background-image: url('image.png');
-	background-size: cover;
+    background-image: url('image.png');
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -24,9 +24,9 @@ h1 {
     border-bottom: 1px solid #99ccff;
     border-left: 1px solid red;
     padding-left: 20px;
-	padding-top: 30px;
+    padding-top: 30px;
     margin: 0px 0px 0px 20px;
-	font-size: 25px;
+    font-size: 25px;
 }
 
 h2 {
@@ -34,19 +34,19 @@ h2 {
     border-bottom: 1px solid #99ccff;
     border-left: 1px solid red;
     padding-left: 20px;
-	padding-top: 40px;
+    padding-top: 40px;
     margin: 0px 0px 0px 20px;
-	font-size: 25px;
+    font-size: 25px;
 }
 
 h3 {
-	border-bottom: 1px solid #99ccff;
+    border-bottom: 1px solid #99ccff;
     border-left: 1px solid red;
-	margin: 0px 0px 0px 20px;
-	padding-right: 90px;
-	font-family: 'Shadows Into Light', cursive;
-	text-align: right;
-	font-size: 25px;
+    margin: 0px 0px 0px 20px;
+    padding-right: 90px;
+    font-family: 'Shadows Into Light', cursive;
+    text-align: right;
+    font-size: 25px;
     color: #2d2d2d8c;
 }
 
@@ -54,30 +54,30 @@ h4 {
     color: #333;
     border-left: 1px solid red;
     padding-left: 20px;
-	padding-top: 40px;
+    padding-top: 40px;
     margin: 0px 0px 0px 20px;
-	font-size: 25px;
+    font-size: 25px;
 }
 
 h5 {
-	padding-bottom: 40px;
-	font-family: 'Patrick Hand', cursive;
-	color: #fff;
-	font-size: 25px;
-	margin: 0px;
+    padding-bottom: 40px;
+    font-family: 'Patrick Hand', cursive;
+    color: #fff;
+    font-size: 25px;
+    margin: 0px;
 }
 
 .outer-container {
-	margin-top: 350px;
-	width: 600px;
+    margin-top: 350px;
+    width: 600px;
     text-align: center;
     padding: 60px;
 }
 
 .date {
-	font-family: 'Shadows Into Light', cursive;
-	text-align: right;
-	color: #ff8383;
+    font-family: 'Shadows Into Light', cursive;
+    text-align: right;
+    color: #ff8383;
 }
 
 .container {
@@ -87,21 +87,20 @@ h5 {
 }
 
 .message {
-	margin: 0px;
+    margin: 0px;
 }
 
 .new {
-	border-bottom: 1px solid #99ccff;
+    border-bottom: 1px solid #99ccff;
     border-left: 1px solid red;
     padding-left: 20px;
-	padding-top: 10px;
+    padding-top: 10px;
     margin: 0px 0px 0px 20px;
-	font-size: 20px;
+    font-size: 20px;
 }
 
 @media (max-width: 600px) {
-	.outer-container {
-		width: 90%;
-		margin-top: 450px;
-	}
+    .outer-container {
+	width: 90%;
+    }
 }
