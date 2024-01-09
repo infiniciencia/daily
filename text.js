@@ -12,6 +12,7 @@ function exibirMensagemDoDia() {
 	"2024-01-06": ["Eu posso não ter ido para onde eu pretendia ir,", "mas eu acho que acabei terminando onde eu pretendia estar.", "~", "- Douglas Adams"],
 	"2024-01-07": ["Você é a constante do meu coração,", "a variável que completa a equação do meu amor."],
 	"2024-01-08": ["Scientific progress is measured in units of courage, not intelligence.", "~", "- Paul Dirac"],
+	"2024-01-09": ["Eu realmente quero dançar com você!"]
     };
 
     const dataAtual = new Date();
