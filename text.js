@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
 function exibirMensagemDoDia() {
     const mensagensPorData = {
 	"2024-01-19": ["Cause I Need your love, I need your heart", "Cmon baby girl, Ima give you a part of me"],
+	"2024-01-20": ["Entre tragédias e comédias,", "a gente briga mas se entende..."],
     };
 
     const dataAtual = new Date();
