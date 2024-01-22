@@ -6,7 +6,7 @@ function exibirMensagemDoDia() {
     const mensagensPorData = {
 	"2024-01-19": ["Cause I Need your love, I need your heart", "Cmon baby girl, Ima give you a part of me"],
 	"2024-01-20": ["Entre tragédias e comédias,", "a gente briga mas se entende..."],
-	"2024-01-22": ["Sobre ontem...", "~", "21/1/2024"],
+	"2024-01-22": ["Quando tem você tá tudo feito,", "perfeito !"],
     };
 
     const dataAtual = new Date();
