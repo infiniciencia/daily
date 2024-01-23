@@ -7,7 +7,7 @@ function exibirMensagemDoDia() {
 	"2024-01-19": ["Cause I Need your love, I need your heart", "Cmon baby girl, Ima give you a part of me"],
 	"2024-01-20": ["Entre tragédias e comédias,", "a gente briga mas se entende..."],
 	"2024-01-22": ["Quando tem você tá tudo feito,", "perfeito !"],
-	"2024-01-23": ["Tá aí esse é o meu celular,", "liga só pra eu te escutar"],
+	"2024-01-23": ["Tá aí esse é o meu celular,", "liga só pra eu te escutar (Amo sua voz)"],
     };
 
     const dataAtual = new Date();
