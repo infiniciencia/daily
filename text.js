@@ -8,6 +8,7 @@ function exibirMensagemDoDia() {
 	"2024-01-20": ["Entre tragédias e comédias,", "a gente briga mas se entende..."],
 	"2024-01-22": ["Quando tem você tá tudo feito,", "perfeito !"],
 	"2024-01-23": ["Tá aí esse é o meu celular,", "liga só pra eu te escutar (Amo sua voz)"],
+	"2024-01-24": ["Mil e uma noites com você !"],
     };
 
     const dataAtual = new Date();
