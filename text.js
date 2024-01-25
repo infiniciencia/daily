@@ -9,7 +9,7 @@ function exibirMensagemDoDia() {
 	"2024-01-22": ["Quando tem você tá tudo feito,", "perfeito !"],
 	"2024-01-23": ["Tá aí esse é o meu celular,", "liga só pra eu te escutar (Amo sua voz)"],
 	"2024-01-24": ["Mil e uma noites com você !"],
-	"2024-01-25": ["Ainda bem que eu te encontrei pra corrigir o passado"],
+	"2024-01-25": ["Ainda bem que eu te encontrei pra corrigir o passado..."],
     };
 
     const dataAtual = new Date();
