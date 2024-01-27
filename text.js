@@ -11,6 +11,7 @@ function exibirMensagemDoDia() {
 	"2024-01-24": ["Mil e uma noites com você !"],
 	"2024-01-25": ["Ainda bem que eu te encontrei pra corrigir o passado..."],
 	"2024-01-26": ["Da vontade de guardar numa caixinha !"],
+	"2024-01-27": ["But I'll be here forever..."],
     };
 
     const dataAtual = new Date();
