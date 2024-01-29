@@ -13,6 +13,7 @@ function exibirMensagemDoDia() {
 	"2024-01-26": ["Da vontade de guardar numa caixinha !"],
 	"2024-01-27": ["But I'll be here forever..."],
 	"2024-01-28": ["Seu colo é o meu lar e o meu colo é o seu!"],
+	"2024-01-29": ["... e se eu falasse o que sinto?"],
     };
 
     const dataAtual = new Date();
