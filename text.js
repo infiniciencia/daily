@@ -14,6 +14,7 @@ function exibirMensagemDoDia() {
 	"2024-01-27": ["But I'll be here forever..."],
 	"2024-01-28": ["Seu colo é o meu lar e o meu colo é o seu!"],
 	"2024-01-29": ["... e se eu falasse o que sinto?"],
+	"2024-01-30": ["... você consegue!"],
     };
 
     const dataAtual = new Date();
